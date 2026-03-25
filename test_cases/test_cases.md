@@ -30,7 +30,7 @@ GROUP BY c.country;
 Total amount correctly aggregated for each country with pending deliveries
 
 **Actual Result:**
-(Attach screenshot)
+[(Attach screenshot)](https://github.com/hotwanii-mohit/sales-qa-assessment/blob/16145f488d77e51ca39251c2f150d49865ddd9f8/results/screenshots/TC01_pending_country.png)
 
 **Status:**
 Pass
