@@ -66,7 +66,7 @@ GROUP BY c.customer_id, customer_name, o.product_name;
 Each customer should have correct transaction count and total amount per product
 
 **Actual Result:**
-(Attach screenshot)
+[(Attach screenshot)](https://github.com/hotwanii-mohit/sales-qa-assessment/blob/bed4f90d02084fd7ceb183224907fb05c796683b/results/screenshots/TC02_customer_summary.png)
 
 **Status:**
 Pass
@@ -108,7 +108,7 @@ WHERE rn = 1;
 Top purchased product per country
 
 **Actual Result:**
-(Attach screenshot)
+[(Attach screenshot)](https://github.com/hotwanii-mohit/sales-qa-assessment/blob/bed4f90d02084fd7ceb183224907fb05c796683b/results/screenshots/TC03_max_product_country.png)
 
 **Status:**
 Pass
@@ -151,7 +151,7 @@ WHERE rn = 1;
 Top product per age category
 
 **Actual Result:**
-(Attach screenshot)
+[(Attach screenshot)](https://github.com/hotwanii-mohit/sales-qa-assessment/blob/bed4f90d02084fd7ceb183224907fb05c796683b/results/screenshots/TC04_age_category.png)
 
 **Status:**
 Pass
@@ -187,7 +187,7 @@ LIMIT 1;
 Country with minimum transactions and sales
 
 **Actual Result:**
-(Attach screenshot)
+[(Attach screenshot)](https://github.com/hotwanii-mohit/sales-qa-assessment/blob/bed4f90d02084fd7ceb183224907fb05c796683b/results/screenshots/TC05_min_country.png)
 
 **Status:**
 Pass
